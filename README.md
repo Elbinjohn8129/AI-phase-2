@@ -1,6 +1,10 @@
 # Create a chatbot in python
-Creating a chatbot in Python involves several steps. Here's a basic outline to get you started:
+# what is chatbot
+A chatbot in Python is a program that uses natural language processing (NLP) and artificial intelligence (AI) to simulate conversation with users. Python is a popular programming language for building chatbots due to its versatility and various libraries, such as NLTK or spaCy, which aid in NLP tasks. Developers use these tools to create chatbots that can understand user input, process it, and generate relevant responses.A chatbot in Python is a program designed to simulate conversation with human users, typically using natural language processing. Python offers various libraries, such as NLTK or spaCy, to handle text processing, and frameworks like ChatterBot simplify the development of conversational agents. These chatbots can be integrated into websites, messaging platforms, or standalone applications to interact with users in a conversational manner.
 
+
+# How to create a chatbot
+creating chatbot involves several steps:
 # Choose a Framework:
 Decide on a chatbot framework. Some popular ones are ChatterBot, NLTK, and Rasa.
 
